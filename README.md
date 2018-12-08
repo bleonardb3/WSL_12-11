@@ -10,8 +10,8 @@ In this workshop you will learn how to develop and deploy applications in Watson
 ### Setting up lab projects in DSX Local
 1. Rename the downloaded **WSL_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. WSL_Demos_BB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Click on https://169.60.117.66 or https://169.60.117.69 (depending on which cluster you were assigned) to log in to Watson Studio Local. Enter Username and Password, and then click **Sign In**
-3. Click **New Project**.
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Welcome_Screen.png"/>
+3. Click **Add Project**.
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/AddProject.png"/>
 4. Select "From File", browse to the **.zip file** (the WSL_Demos zip file that you renamed above) and click **Open**. Then click **Create**.
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Create_Project.png" border="5"/>
 
