@@ -26,10 +26,11 @@ In this workshop you will learn how to develop and deploy applications in Watson
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Batch score** tab.
-4. For **Input data set**, select *TelcoModelFeedback.csv*.
-5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
-6. On the top right, click **Advanced Settings**.
-7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
+4. For **Execution**, select *Local Spark*
+5. For **Input data set**, select *TelcoModelFeedback.csv*.
+6. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
+7. On the top right, click **Advanced Settings**.
+8. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
 8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example, to perform pre/post processing tasks)
 
 ![batchscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/BatchScores.png?raw=true)
