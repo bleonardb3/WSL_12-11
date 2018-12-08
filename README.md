@@ -32,7 +32,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
 8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example, to perform pre/post processing tasks)
 
-![batchscoring](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/batch_scoring.png?raw=true)
+![batchscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/BatchScores.png?raw=true)
 
 9. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success.
 10.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page  
