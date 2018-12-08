@@ -13,7 +13,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 3. Click **Add Project**.
 > <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/AddProject.png"/>
 4. Select "From File", browse to the **.zip file** (the WSL_Demos zip file that you renamed above) and click **Open**. Then click **Create**.
-> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/CreateProjectFromFile.png border="5"/>
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/CreateProjectFromFile.png" border="5"/>
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Click on **Assets**. 
