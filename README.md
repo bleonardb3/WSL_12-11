@@ -16,10 +16,10 @@ In this workshop you will learn how to develop and deploy applications in Watson
 > <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/CreateProjectFromFile.png" border="5"/>
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
-1. Click on **Assets**. 
-> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/Click%20on%20Assets.png"/>
+1. Click on **Notebooks**. 
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/Click%20on%20Notebooks.png"/>
 2. Click on **TelcoChurn_SparkML** to open the *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/OpenTelcoChurn_SparkML.png"/>
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/ClickonTelcoSparkML.png"/>
 3. Follow instructions in the notebook.
 
 ### Lab 2: Create Batch Script and Test Batch Scoring
