@@ -37,7 +37,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 
 9. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success.
 10.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page  
-![verifyscoring](https://www.github.com/bleonardb3/WSL_12-11/blob/master/images/VerifyBatchScoresFile.png?raw=true)
+![verifyscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/VerifyBatchScoreFile.png.png?raw=true)
 
 ### Lab 3: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
