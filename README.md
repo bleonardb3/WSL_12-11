@@ -44,7 +44,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Evaluate** tab.
 4. For the scripts inputs, specify these values.<br/>
-![model_eval](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/img/model_eval.png?raw=true)
+![model_eval](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/model_eval.png?raw=true)
 
 5. Click **Advanced Settings** and change the File Name of the script. For example, you can name it ChurnModelEvalScript. Also change the Job Name to ChurnModelEvalJob. Click **Save**.
 6. Click **Generate evaluation Script**.
