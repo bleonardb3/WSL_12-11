@@ -44,23 +44,23 @@ In this workshop you will learn how to develop and deploy applications in Watson
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Evaluate** tab.
 4. For the scripts inputs, specify these values.<br/>
-![model_eval](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/images/img/model_eval.png?raw=true)
+![model_eval](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/img/model_eval.png?raw=true)
 
 5. Click **Advanced Settings** and change the File Name of the script. For example, you can name it ChurnModelEvalScript. Also change the Job Name to ChurnModelEvalJob. Click **Save**.
 6. Click **Generate evaluation Script**.
 7. Click **Run now**, scroll down and wait till the status changes to Success. ,br/>
-![model_eval_job_results](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/images/model_eval_job_results.png?raw=true)
+![model_eval_job_results](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/model_eval_job_results.png?raw=true)
 8. Navigate to the **Models** section of the project and click into the **Telco_Churn_ML_model** to see the evaluation results. 
 
 ### Lab 4: Deploy Project into Production 
 1. You must have completed Lab 1, Lab 2 and Lab 3 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
-![commit_push](/img/commit_push.png?raw=true)
+![commit_push](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/commit_push.png?raw=true)
 3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
 4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
 5. Click **Commit and push**. Sign off DSX. Login to DSX as Administrator (same userid with an "a" added)
 6. Navigate to the **Deployment Manager**.  <br/>
-![deployment_manager](/img/deployment_manager.png?raw=true)
+![deployment_manager](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/deployment_manager.png?raw=true)
 7. Click the **+** icon to create a project release.
 8. Specify the following inputs
 * Name: WorkshopRelease1
@@ -76,10 +76,10 @@ In this workshop you will learn how to develop and deploy applications in Watson
 13. Specify the name *telco-churn-online*.  Notice that the name gets appended to the URL (REST endpoint), that’s why it has to be lowercase with no special characters. 
 14. Click **Create**
 15. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.<br/>
-![mmd_rest_endpoint](/img/mmd_rest_endpoint.png?raw=true)<br/>
+![mmd_rest_endpoint](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/mmd_rest_endpoint.png?raw=true)<br/>
 16. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
 17. Click the **Deployments** tab to list all the deployments you have created. <br/>
-![mmd_deployments](/img/mmd_deployments.png?raw=true)<br/>
+![mmd_deployments](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/mmd_deployments.png?raw=true)<br/>
 18. The deployments are in a disabled state because the project has not been launch.  Click the **Launch** button at the top right corner.<br/>
 Launching the release will:
 * Start all environments that will be used for deployment
