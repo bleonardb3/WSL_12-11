@@ -55,7 +55,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 ### Lab 4: Deploy Project into Production 
 1. You must have completed Lab 1, Lab 2 and Lab 3 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
-![commit_push](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/commit_push.png?raw=true)
+![commit_push](https://github.com/bleonardb3/WSL_12-11/blob/master/images/CommitChanges.png?raw=true)
 3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
 4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
 5. Click **Commit and push**. Sign off DSX. Login to DSX as Administrator (same userid with an "a" added)
