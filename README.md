@@ -103,7 +103,7 @@ Launching the release will:
 * Enable the REST endpoints
 * Enable URLs for “applications” (notebooks and Shiny)
 * Enable schedules (if they are configured)
-* Enable on-demand invocation of jobs. 
+* Enable on-demand invocation of jobs.  
 
 27. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand. 
 28. For example, let's test the web service deployment with an API call. Select the web service deployment. 
