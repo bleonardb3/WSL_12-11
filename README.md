@@ -92,8 +92,8 @@ In this workshop you will learn how to develop and deploy applications in Watson
 21. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
 22. Click on **job**
 ![configurebatch](https://github.com/bleonardb3/WSL_12-11/blob/master/images/ConfigureBatchScoreScript.png)<br/>
-23. Fill in the **Name**, **Type**, and **Worker** as shown below. 
-![deploybatch](https://github.com/bleonardb3/WSL_12-11/blob/master/images/DeployBatchScript.png),br/>
+23. Fill in the **Name**, **Type**, and **Worker** as shown below. <br/>
+![deploybatch](https://github.com/bleonardb3/WSL_12-11/blob/master/images/DeployBatchScript.png)
 24. Repeat for the Evaluation script. 
 25. Click the **Deployments** tab to list all the deployments you have created. <br/>
 26. The deployments are in a disabled state because the project has not been launch.  Click the **Launch** button at the top right corner.<br/>
