@@ -64,8 +64,10 @@ In this workshop you will learn how to develop and deploy applications in Watson
 ![push dialog](https://github.com/bleonardb3/WSL_12-11/blob/master/images/PushScreen.png?raw=true)
 7. You should see the following status message at the top of the screen. 
 ![push successful](https://github.com/bleonardb3/WSL_12-11/blob/master/images/PushSuccessfulMessage.png?raw=true)
-5. Click **Commit and push**. Sign off DSX. Login to DSX as Administrator (same userid with an "a" added)
-6. Navigate to the **Deployment Manager**.  <br/>
+8. Sign off of Watson Studio Local.
+![sign out](https://github.com/bleonardb3/WSL_12-11/blob/master/images/SignOut.png?raw=true)
+9. Login to Watson Studio Local as Administrator (same userid with an "a" added)
+10. Navigate to the **Deployment Manager**.  <br/>
 ![deployment_manager](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/deployment_manager.png?raw=true)
 7. Click the **+** icon to create a project release.
 8. Specify the following inputs
