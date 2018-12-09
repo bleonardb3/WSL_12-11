@@ -88,11 +88,16 @@ In this workshop you will learn how to develop and deploy applications in Watson
 19. Click **Create** <br/>
 ![deploymodel](https://github.com/bleonardb3/WSL_12-11/blob/master/images/DeployModel.png?raw=true)
 20. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.<br/>
-![mmd_rest_endpoint](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/mmd_rest_endpoint.png?raw=true)<br/>
+![mmd_rest_endpoint](https://github.com/bleonardb3/WSL_12-11/blob/master/images/OnlineDeployment.png)<br/>
 21. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
-22. Click the **Deployments** tab to list all the deployments you have created. <br/>
-![mmd_deployments](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/mmd_deployments.png?raw=true)<br/>
-23. The deployments are in a disabled state because the project has not been launch.  Click the **Launch** button at the top right corner.<br/>
+22. Click on **job**
+![configurebatch](https://github.com/bleonardb3/WSL_12-11/blob/master/images/ConfigureBatchScoreScript.png)<br/>
+23. Fill in the **Name**, **Type**, and **Worker** as shown below. 
+![deploybatch](https://github.com/bleonardb3/WSL_12-11/blob/master/images/DeployBatchScript.png),br/>
+24. Repeat for the Evaluation script. 
+25. Click the **Deployments** tab to list all the deployments you have created. <br/>
+26. The deployments are in a disabled state because the project has not been launch.  Click the **Launch** button at the top right corner.<br/>
+![launchdeployment](https://github.com/bleonardb3/WSL_12-11/blob/master/images/LaunchDeployments.png)<br/>
 Launching the release will:
 * Start all environments that will be used for deployment
 * Enable the REST endpoints
@@ -100,17 +105,17 @@ Launching the release will:
 * Enable schedules (if they are configured)
 * Enable on-demand invocation of jobs. 
 
-24. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand. 
-25. For example, let's test the web service deployment with an API call. Select the web service deployment. 
+27. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand. 
+28. For example, let's test the web service deployment with an API call. Select the web service deployment. 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/DeploymentList.png"/>
-26. Select the API tab 
+29. Select the API tab 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/SelectAPI.png"/>
-27. Scroll down the page to the Request block. Replace the value of "INSERT_VALUE" after the "International:" and "Dropped" fields with the values 1.0 and 1.0 without quotes (both are float field) and then click on **Submit** 
+30. Scroll down the page to the Request block. Replace the value of "INSERT_VALUE" after the "International:" and "Dropped" fields with the values 1.0 and 1.0 without quotes (both are float field) and then click on **Submit** 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/InsertValue.png"/>
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/ReplaceInsertValue.png"/>
-28. Scroll to the right to see the prediction. 
+31. Scroll to the right to see the prediction. 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Response.png"/>
-29 Sign off as administrator and sign on as user. 
+32 Sign off as administrator and sign on as user. 
 
 ### Lab 5: Watson Machine Learning
 1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
