@@ -130,9 +130,12 @@ Note you will need to click on the Download button to download the instructions 
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
-### Lab 9: Build R models in Jupyter and deploy into Shiny App
-1. Follow the instructions in [R in DSXL](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/R_in_DSXL.pdf)
-Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
+### Lab 9: Build R models in Jupyter and run Shiny App with embedded model
+1. Navigate to **Assets** view and open **Driver Classification** notebook. 
+2. Execute the code cells in the notebook. 
+3. Navigate to the **RStudio** section and click **Open RStudio** 
+4. The "demoBrakeEvents" Shiny App is already included in this project. Open demoBrakeEvents\server.R and run it.
+
 
 ### Lab 10: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
