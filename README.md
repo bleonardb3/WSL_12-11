@@ -120,8 +120,7 @@ Launching the release will:
 ### Lab 5: Watson Machine Learning
 1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/WSL_12-11/raw/master/Lab%20Instructions/WatsonMachineLearningv2.pdf). 
 ### Lab 6: SPSS Modeler in DSX 
-1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf). 
-Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
+1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/WSL_12-11/raw/master/Lab%20Instructions/titanic-spss-modeler-edits-local-2.pdf). 
 
 ### Lab 7: Data Refinery 
 1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v2.pdf).
