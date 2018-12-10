@@ -133,7 +133,8 @@ Note you will need to click on the Download button to download the instructions 
 ### Lab 9: Build R models in Jupyter and run Shiny App with embedded model
 1. Navigate to **Assets** view and open **Driver Classification** notebook. 
 2. Execute the code cells in the notebook. 
-3. Navigate to the **RStudio** section and click **Open RStudio** 
+3. Navigate to the **RStudio** section, click on Shiny, and click on 
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/NavigatetoRStudio.png"/>
 4. The "demoBrakeEvents" Shiny App is already included in this project. Open demoBrakeEvents\server.R and run it.
 
 
