@@ -123,8 +123,7 @@ Launching the release will:
 1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/WSL_12-11/raw/master/Lab%20Instructions/titanic-spss-modeler-edits-local-2.pdf). 
 
 ### Lab 7: Data Refinery 
-1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v2.pdf).
-Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
+1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/WSL_12-11/raw/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v3.pdf).
 
 ### Lab 8: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
