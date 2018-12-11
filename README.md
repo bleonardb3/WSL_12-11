@@ -31,13 +31,16 @@ In this workshop you will learn how to develop and deploy applications in Watson
 6. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
 7. On the top right, click **Advanced Settings**.
 8. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
-8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example, to perform pre/post processing tasks)
+9. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example, to perform pre/post processing tasks)<br/>
 
 ![batchscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/BatchScores.png?raw=true)
 
-9. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success.
-10.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page  
+10. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success. <br/>
+11.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page <br/>
 ![verifyscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/VerifyBatchScoreFile.png?raw=true)
+12. Click on the vertical ellipse and then click on Preview to view the data set. 
+![previewfile](https://github.com/bleonardb3/WSL_12-11/blob/master/images/PreviewBatchFile.png?raw=true)
+
 
 ### Lab 3: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
