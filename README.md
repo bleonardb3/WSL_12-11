@@ -38,7 +38,7 @@ In this workshop you will learn how to develop and deploy applications in Watson
 10. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success. <br/>
 11.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page <br/>
 ![verifyscoring](https://github.com/bleonardb3/WSL_12-11/blob/master/images/VerifyBatchScoreFile.png?raw=true)
-12. Click on the vertical ellipse and then click on Preview to view the data set. 
+12. Click on the vertical ellipse and then click on Preview to view the data set. <br/> 
 ![previewfile](https://github.com/bleonardb3/WSL_12-11/blob/master/images/PreviewBatchFile.png?raw=true)
 
 
