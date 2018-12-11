@@ -112,14 +112,12 @@ Launching the release will:
 
 27. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand. 
 28. For example, let's test the web service deployment with an API call. Select the web service deployment. 
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/DeploymentList.png"/>
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/SelectWebDeployment.png"/>
 29. Select the API tab 
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/SelectAPI.png"/>
-30. Scroll down the page to the Request block. Replace the value of "INSERT_VALUE" after the "International:" and "Dropped" fields with the values 1.0 and 1.0 without quotes (both are float field) and then click on **Submit** 
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/InsertValue.png"/>
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/ReplaceInsertValue.png"/>
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/SelectAPI.png"/>
+30. Scroll down the page to the Request block and then click on **Submit** 
+> <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/SubmitAPI.png"/>
 31. Scroll to the right to see the prediction. 
-> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Response.png"/>
 32 Sign off as administrator and sign on as user. 
 
 ### Lab 5: Watson Machine Learning
