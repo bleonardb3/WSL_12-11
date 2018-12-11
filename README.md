@@ -117,7 +117,8 @@ Launching the release will:
 > <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/SelectAPI.png"/>
 30. Scroll down the page to the Request block and then click on **Submit** 
 > <img src="https://github.com/bleonardb3/WSL_12-11/blob/master/images/SubmitAPI.png"/>
-31. Scroll to the right to see the prediction. 
+31. Scroll to the right to see the prediction.
+
 32 Sign off as administrator and sign on as user. 
 
 ### Lab 5: Watson Machine Learning
